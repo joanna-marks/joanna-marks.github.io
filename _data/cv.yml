@@ -103,6 +103,12 @@
 - title: Invited talks
   type: time_table
   contents:
+    - year: 2026
+      description:
+        - “Advances in MCMC Sampling Methods” minisymposium, SIAM UQ, Minnesota, US (March 2026).
+    - year: 2025
+      description:
+        - Breaking topics in AI'25 at Imperial College London, UK (November 2025).
     - year: 2025
       description:
         - Conference on Uncertainty in Artificial Intelligence (UAI 2025), Rio de Janeiro, Brazil (July 2025).
