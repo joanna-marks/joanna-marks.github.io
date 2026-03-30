@@ -1,15 +1,8 @@
-"duncan":
-  - firstname: ["Andrew", "Andrew Duncan"]
-    url: https://profiles.imperial.ac.uk/a.duncan/about
-
 "akyildiz":
   - firstname: ["Deniz", "Deniz Akyildiz"]
     url: https://akyildiz.me/
 
-"schroeder":
-  - firstname: ["Tobias", "Tobias Schröder", "Tobias Schroeder"]
-    url: https://tobias-schroeder.github.io/
+"wang":
+  - firstname: ["Tim YJ", "Tim Y.J. Wang"]
+    url: https://profiles.imperial.ac.uk/tim.wang20
 
-"crucinio":
-  - firstname: ["Francesca", "Francesca Crucinio"]
-    url: https://francescacrucinio.github.io/
