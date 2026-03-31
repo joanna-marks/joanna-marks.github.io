@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Paula Cordero Encinar
+      value: Joanna Marks
     - name: Languages
-      value: Spanish, English, French
+      value: Polish, English, German
     - name: Contact
       value: <span style="font-family:'Lucida Console', monospace">paula.cordero-encinar22 at imperial dot ac dot uk</span>
 
@@ -13,143 +13,144 @@
   contents:
     - title: PhD in Statistics and Machine Learning
       institution: Imperial College London and University of Oxford, UK
-      year: 2023-now
+      year: 2024-now
       description:
-        - Under the supervision of <a href="https://scholar.google.com/citations?user=3ZzC72cAAAAJ&hl=en">Andrew Duncan</a> and <a href="https://akyildiz.me/">Deniz Akyildiz</a>.
-        - Generative modelling, sampling, machine learning theory, diffusion models, Markov Chain Monte Carlo methods, SDEs, AI4Science.
+        - Under the supervision of <a href="https://akyildiz.me/">Deniz Akyildiz</a> and <a href="https://sites.google.com/site/riccardopasseggeri">Riccardo Passeggeri</a>
+        -Investigating the interplay between Optimal Transport (OT) and enerative Modeling, with a focus on latent variable models. Currently working with  href="https://gabrielrioux.github.io">Gabriel Rioux</a> on developing a novel, scalable algorithm for Gromov-Wasserstein distance computation to align complex probability spaces.
         - Fully funded within the EPSRC Center for Doctoral Training in Statistics and Machine Learning (<a href="https://statml.io/">StatML CDT</a>).
-        - title: Papers
-          contents:
-            - 1 NeurIPS paper
-            - 1 UAI paper (Oral)
-            - 1 AISTATS paper
-            - 1 ICLR workshop paper
+        - Completed doctoral-level modules in Deep Learning, Advanced Bayesian Methods, Statistical Inference, and Causal Inference.
+        # - title: Papers
+        #   contents:
+        #     - 1 NeurIPS paper
+        #     - 1 UAI paper (Oral)
+        #     - 1 AISTATS paper
+        #     - 1 ICLR workshop paper
     - title: MSc. in Statistics
       institution: Imperial College London, UK
-      year: 2022-2023
+      year: 2023-2024
       description:
-        - Top 1%, Winton prize for the best student in the MSc.
-        - <a href="https://becarios.fundacionlacaixa.org/en/paula-cordero-encinar-B005787">La Caixa Fellowship</a> (Competitive scholarship awarded to only 100 scholars across all disciplines from all over Spain and Portugal to fully fund their studies).
-        - MSc student representative.
-    - title: MSc. in Artificial Intelligence 
-      institution: Universidad Politécnica de Madrid, Spain
-      year: 2021 - 2022
+        - <a href="https://fundacja.orlen.pl/pl/obszary-programowe/edukacja/bona-fide">Bona Fide Scholarship</a> (Competitive scholarship awarded to top Polish studnets to partially fund their studies).
+        - Thesis project supervised by Ed Cohen on "Mean-field limits for discrete-time Hawkes processes on homogeneous and inhomogeneous graph structures."
+        - Modules included: Deep Learning, Machine Learning, Advanced Simulation Methods and Bayesian Methods
+        - Graduated with Distinction.
+    - title: BSc. in Mathematics
+      institution: Universitu of Wariwck, UK
+      year: 2020 - 2023
       description:
-        - José Cuena Award (Top student of the year 9.74/10).
-        - Scholarship for collaboration in university departments (Spanish Ministry of Education).
-    - title: BSc. in Mathematics and Physics (Double Degree) 
-      institution: Universidad Complutense de Madrid, Spain
-      year: 2016 - 2021
-      description:
-        - "Average grade: 9.16/10 (6 subjects with the “With honours” distinction)."
-        - Top 5% of the cohort. “Comunidad de Madrid” Excellence Prize.
+        -  Second-year project on modelling football match results.
+        - Modules included: Probabilty Theory, Markov Processes, Stochastic Processes and Statistical Inference.
+        - Graduated with First Class Honours.
 
-- title: Experience
+
+
+- title: Work Experience
   type: time_table
   contents:
-    - title: AI Research Intern
-      institution: Evotrack, London, UK
-      year: 2023 
+    - title: Quantitative Analyst (Part-time)
+      institution: Amelco UK, London, UK
+      year: Jul 2024 - Oct 2025
       description:
-        - Support the R&D team to create a real-time cloud-based application of their existing machine
-          learning models. Participate in research activities on electric vehicle charging infrastructure usage
-          forecasting services. Run simulations to identify better fleet management strategies.
-        - June 2023-September 2023.
-    - title: Machine Learning Research Intern
-      institution: <a href="https://www.titaniumindustrialsecurity.com/index_en.html">Titanium Industrial Cybersecurity</a>, Madrid, Spain
-      year: 2022
+        - Helped develop <b>Python-based pricing models</b> for basketball pre-match markets, incorporating team and player strength, pace, and efficiency.
+        - Helped develop a <b>time-series library</b> for fitting custom state-space models using JAX.
+        - Worked with traders and product teams to translate <b>model outputs into market prices</b>, sanity checks, and risk controls; created diagnostics to monitor model performance.
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: The Mary Lister McCammon Summer Research Fellow
+      institution: Imperial College London, Department of Mathematics, London, UK
+      year: Jul 2023 - Sep 2023
       description:
-        - Development of a complex machine learning model to detect different types of cyber attacks, with
-          a particular focus on the network lateral movement attack, which is a very difficult cyber attack
-          to detect due to its sophisticated nature.
-        - January 2022-July 2022.
+        - Developed a <b>stochastic model</b> to simulate the development of cancer cells in a joint system with lymphocyte cells.
+        - Introduced an <b>interaction matrix</b> into the stochastic model to account for interactions between cancer cells and lymphocyte cells.
+        - Collaborated with an MSc student to compare the stochastic model with an analogous continuous model.
+        - Worked as <b>part of a cohort of fourteen fellows</b>, participated in science communication training, and presented the research to a broad audience.
+
     - title: Research Intern
-      institution: <a href="https://www.icfo.eu/">Institute of Photonic Sciences, ICFO</a>, Barcelona, Spain
-      year: 2021
+      institution: University of Oxford, Department of Statistics, Oxford, UK
+      year: Jul 2022 - Sep 2022
       description:
-        - ICFO Summer Fellowship. Data analysis for the development and optimization of a portable real-
-          time monitoring platform for the assessment of Covid-19 in the Medical Optics research group.
-        - June 2021-September 2021.
+        - Developed and implemented a <b>mixed additive model</b> in Python to assess pass difficulty and estimate the passing ability of a football player.
+        - Worked under the supervision of Professor Christl Donnelly and PhD candidate Matthew Penn.
+        - Conducted independent research, implemented it on real-world data, and <b>contributed to pre-match reports</b> for Oxford City Football Club.
+        - Research was mentioned in <i>Nature</i> <a href="https://www.nature.com/articles/d41586-022-03698-1">[link]</a>.
+        - An article based on the model was published in <i>Significance</i>, the Royal Statistical Society's magazine: <a href="https://academic.oup.com/jrssig/article/20/6/22/7457255">[link]</a>.
 
-    - title: Quantum Computing Research Intern
-      institution: <a href="https://quinfog.hbar.es/">Institute of Fundamental Physics, IFF CSIC</a>, Madrid, Spain
-      year: 2020-2021
+    - title: Undergraduate Research Support Scheme
+      institution: University of Warwick, Department of Statistics, Coventry, UK
+      year: Jul 2023 - Sep 2023
       description:
-        - Under the supervision of <a href="https://scholar.google.com/citations?user=GBsr9DIAAAAJ&hl=en">Carlos Sabín</a>.
-        - JAE - INTRO 2020 Fellowship. Project on quantum computation and quantum information. Study
-          of state-of-the-art techniques in quantum computation and information, execution of high quality
-          simulations on IBM quantum computers using the Qiskit package in Python, application of quantum
-          methods to optimisation problems and study of quantum machine learning concepts.
-        - Research outcome was published in <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.052609">Physical Review A</a>.
-        - September 2020-June 2021.
+        - Developed a mid-season table for the Polish volleyball league, accounting for the strength of each opponent played.
+        - Worked under the supervision of Dr. Nick Tawn and Professor David Firth.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2025
-      items:
-        - QRT PhD Prize (Winner) Imperial College London.
-    - year: 2025
-      items:
-        - Finalist for the Mathematics category at STEM for BRITAIN 2025, House of Parliament.
-    - year: 2024, 2025
-      items:
-        - Best research poster at the department's PhD symposium 2024, 2025, Imperial College London.
-    - year: 2022
-      items:
-        - <a href="https://becarios.fundacionlacaixa.org/en/paula-cordero-encinar-B005787">‘la Caixa’ Foundation Fellowship</a>
-        - Full fellowship for conducting an MSc. in Statistics at Imperial College London.
 
-- title: Invited talks
-  type: time_table
-  contents:
-    - year: 2026
-      description:
-        - “Advances in MCMC Sampling Methods” minisymposium, SIAM UQ, Minnesota, US (March 2026).
-    - year: 2025
-      description:
-        - Breaking topics in AI'25 at Imperial College London, UK (November 2025).
-    - year: 2025
-      description:
-        - Conference on Uncertainty in Artificial Intelligence (UAI 2025), Rio de Janeiro, Brazil (July 2025).
-    - year: 2025
-      description:
-        - Statistics Seminar at the University of Glasgow, UK (May 2025).
-    - year: 2025
-      description:
-        - 2nd RSS Workshop on Gradient Flows for Sampling, Inference, and Learning at the Alan Turing Institute, London, UK (March 2025). 
-    - year: 2025
-      description:
-        - Statistics Seminar at the University of Warwick, UK (February 2025).
-    - year: 2024
-      description:
-        - Statistics Internal Seminar at Imperial College London, UK (November 2024).
-    - year: 2024
-      description:
-        - Natural Science Showcase Imperial College London, UK (the Mathematics department selected two PhDs) (September 2024).
-    - year: 2024
-      description:
-        - Mary Lister McCammon Summer Undergrad Research Fellows, Imperial College London, UK (August 2024, July 2025).
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2025
+#       items:
+#         - QRT PhD Prize (Winner) Imperial College London.
+#     - year: 2025
+#       items:
+#         - Finalist for the Mathematics category at STEM for BRITAIN 2025, House of Parliament.
+#     - year: 2024, 2025
+#       items:
+#         - Best research poster at the department's PhD symposium 2024, 2025, Imperial College London.
+#     - year: 2022
+#       items:
+#         - <a href="https://becarios.fundacionlacaixa.org/en/paula-cordero-encinar-B005787">‘la Caixa’ Foundation Fellowship</a>
+#         - Full fellowship for conducting an MSc. in Statistics at Imperial College London.
 
-- title: Outreach
-  type: time_table
-  contents:
-    - year: 2025
-      description:
-        - Girls in Maths Open Day, Imperial College London (March and July 2025).
-    - year: 2024
-      description:
-        - Oxford Maths Festival (May 2024).
-    - year: 2024
-      description:
-        - Imperial College London Maths School (May 2024).
-    - year: 2023-2024
-      description:
-        - Organiser of the weekly Junior Stats Seminar at Imperial College London (2023-2024).
+# - title: Invited talks
+#   type: time_table
+#   contents:
+#     - year: 2026
+#       description:
+#         - “Advances in MCMC Sampling Methods” minisymposium, SIAM UQ, Minnesota, US (March 2026).
+#     - year: 2025
+#       description:
+#         - Breaking topics in AI'25 at Imperial College London, UK (November 2025).
+#     - year: 2025
+#       description:
+#         - Conference on Uncertainty in Artificial Intelligence (UAI 2025), Rio de Janeiro, Brazil (July 2025).
+#     - year: 2025
+#       description:
+#         - Statistics Seminar at the University of Glasgow, UK (May 2025).
+#     - year: 2025
+#       description:
+#         - 2nd RSS Workshop on Gradient Flows for Sampling, Inference, and Learning at the Alan Turing Institute, London, UK (March 2025). 
+#     - year: 2025
+#       description:
+#         - Statistics Seminar at the University of Warwick, UK (February 2025).
+#     - year: 2024
+#       description:
+#         - Statistics Internal Seminar at Imperial College London, UK (November 2024).
+#     - year: 2024
+#       description:
+#         - Natural Science Showcase Imperial College London, UK (the Mathematics department selected two PhDs) (September 2024).
+#     - year: 2024
+#       description:
+#         - Mary Lister McCammon Summer Undergrad Research Fellows, Imperial College London, UK (August 2024, July 2025).
+
+# - title: Outreach
+#   type: time_table
+#   contents:
+#     - year: 2025
+#       description:
+#         - Girls in Maths Open Day, Imperial College London (March and July 2025).
+#     - year: 2024
+#       description:
+#         - Oxford Maths Festival (May 2024).
+#     - year: 2024
+#       description:
+#         - Imperial College London Maths School (May 2024).
+#     - year: 2023-2024
+#       description:
+#         - Organiser of the weekly Junior Stats Seminar at Imperial College London (2023-2024).
 
 
 
 - title: Other Interests
   type: list
   contents:
-    - Running, Swimming, Dancing, Reading.
+    - Running, Crossfit, Reading, Sports fan (Tennis and Voleyball in particular)
