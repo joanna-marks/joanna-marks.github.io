@@ -2,8 +2,7 @@
 repo_description_lines_max: 2
 
 github_users:
-  - paulaoak
+  - joanna-marks
 
 github_repos:
-  - paulaoak/sampling_by_averaging
-  - paulaoak/proximal-ipla
+  - joanna-marks/LatentEBM-IPLA

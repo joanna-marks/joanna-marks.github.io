@@ -8,8 +8,4 @@ nav_order: 4
 
 #### MSc in Statistics, Imperial College London (2024-now)
 
-Teaching assistant for Computational Statistics and Probability Theory courses.
-
-#### BSc in Mathematics, Imperial College London (2023-now)
-
-Teaching Assistant for first-year courses in Calculus, Probability, and Statistics, as well as the third-year course in Stochastic Simulation.
+Teaching assistant for Methods for Data Science course (includes topics on regression, clustering, neural networks and dimensionality reduction techniques).
