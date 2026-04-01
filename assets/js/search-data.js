@@ -30,10 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-i-am-excited-to-share-that-my-work-has-been-selected-for-an-oral-presentation-at-uai-25-see-you-in-brazil-update-so-happy-to-have-received-the-best-student-paper-award",
-          title: 'I am excited to share that my work has been selected for an...',
-          description: "",
-          section: "News",},{id: "news-i-will-be-presenting-a-poster-at-amortized-probml-workshop-at-ellis-unconference-which-will-take-place-alongside-eurips-in-copenhagen-the-poster-will-be-a-summary-of-our-joint-work-with-tim-y-j-wang-and-deniz-akyildiz-on-leveraging-particle-system-for-efficient-training-of-energy-based-models-come-along-if-interested",
+        },{id: "news-i-will-be-presenting-a-poster-at-amortized-probml-workshop-at-ellis-unconference-which-will-take-place-alongside-eurips-in-copenhagen-the-poster-will-be-a-summary-of-our-joint-work-with-tim-y-j-wang-and-deniz-akyildiz-on-leveraging-particle-system-for-efficient-training-of-energy-based-models-come-along-if-interested",
           title: 'I will be presenting a poster at Amortized ProbML workshop at ELLIS Unconference...',
           description: "",
           section: "News",},{
