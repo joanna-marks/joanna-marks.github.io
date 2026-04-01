@@ -30,16 +30,16 @@
       institution: Imperial College London, UK
       year: 2023-2024
       description:
-        - <a href="https://fundacja.orlen.pl/pl/obszary-programowe/edukacja/bona-fide">Bona Fide Scholarship</a> (Competitive scholarship awarded to top Polish studnets to partially fund their studies).
+        - <a href="https://fundacja.orlen.pl/pl/obszary-programowe/edukacja/bona-fide">Bona Fide Scholarship</a> (Competitive scholarship awarded to top Polish students to partially fund their studies).
         - Thesis project supervised by Ed Cohen on "Mean-field limits for discrete-time Hawkes processes on homogeneous and inhomogeneous graph structures."
-        - Modules included: Deep Learning, Machine Learning, Advanced Simulation Methods and Bayesian Methods
+        - "Modules included: Deep Learning, Machine Learning, Advanced Simulation Methods, and Bayesian Methods."
         - Graduated with Distinction.
     - title: BSc. in Mathematics
-      institution: Universitu of Wariwck, UK
+      institution: University of Warwick, UK
       year: 2020 - 2023
       description:
-        -  Second-year project on modelling football match results.
-        - Modules included: Probabilty Theory, Markov Processes, Stochastic Processes and Statistical Inference.
+        - Second-year project on modelling football match results.
+        - "Modules included: Probability Theory, Markov Processes, Stochastic Processes, and Statistical Inference."
         - Graduated with First Class Honours.
 
 
@@ -75,7 +75,7 @@
         - Worked under the supervision of Professor Christl Donnelly and PhD candidate Matthew Penn.
         - Conducted independent research, implemented it on real-world data, and <b>contributed to pre-match reports</b> for Oxford City Football Club.
         - Research was mentioned in <i>Nature</i> <a href="https://www.nature.com/articles/d41586-022-03698-1">[link]</a>.
-        - An article based on the model was published in <i>Significance</i>, the Royal Statistical Society's magazine: <a href="https://academic.oup.com/jrssig/article/20/6/22/7457255">[link]</a>.
+        - "An article based on the model was published in <i>Significance</i>, the Royal Statistical Society's magazine: <a href=\"https://academic.oup.com/jrssig/article/20/6/22/7457255\">[link]</a>."
 
     - title: Undergraduate Research Support Scheme
       institution: University of Warwick, Department of Statistics, Coventry, UK
@@ -154,4 +154,4 @@
 - title: Other Interests
   type: list
   contents:
-    - Running, Crossfit, Reading, Sports fan (Tennis and Voleyball in particular)
+    - Running, CrossFit, Reading, Sports fan (tennis and volleyball in particular)
