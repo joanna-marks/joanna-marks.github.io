@@ -49,7 +49,7 @@
   contents:
     - title: Quantitative Analyst (Part-time)
       institution: Amelco UK, London, UK
-      year: Jul 2024 - Oct 2025
+      year: 2024 - 2025
       description:
         - Helped develop <b>Python-based pricing models</b> for basketball pre-match markets, incorporating team and player strength, pace, and efficiency.
         - Helped develop a <b>time-series library</b> for fitting custom state-space models using JAX.
@@ -60,7 +60,7 @@
   contents:
     - title: The Mary Lister McCammon Summer Research Fellow
       institution: Imperial College London, Department of Mathematics, London, UK
-      year: Jul 2023 - Sep 2023
+      year: "2023"
       description:
         - Developed a <b>stochastic model</b> to simulate the development of cancer cells in a joint system with lymphocyte cells.
         - Introduced an <b>interaction matrix</b> into the stochastic model to account for interactions between cancer cells and lymphocyte cells.
@@ -69,7 +69,7 @@
 
     - title: Research Intern
       institution: University of Oxford, Department of Statistics, Oxford, UK
-      year: Jul 2022 - Sep 2022
+      year: "2022"
       description:
         - Developed and implemented a <b>mixed additive model</b> in Python to assess pass difficulty and estimate the passing ability of a football player.
         - Worked under the supervision of Professor Christl Donnelly and PhD candidate Matthew Penn.
@@ -79,7 +79,7 @@
 
     - title: Undergraduate Research Support Scheme
       institution: University of Warwick, Department of Statistics, Coventry, UK
-      year: Jul 2023 - Sep 2023
+      year: "2023"
       description:
         - Developed a mid-season table for the Polish volleyball league, accounting for the strength of each opponent played.
         - Worked under the supervision of Dr. Nick Tawn and Professor David Firth.

@@ -20,7 +20,7 @@ announcements:
 
 Hello ! I am a second-year PhD candidate in [Statistics and Machine Learning](https://statml.io) at Imperial College London and the University of Oxford, where I am fortunate to be supervised by [Deniz Akyildiz](https://akyildiz.me/) and [Riccardo Passeggeri](https://sites.google.com/site/riccardopasseggeri). 
 
-Before starting my PhD, completed an MSc in Mathematics at the University of Warwick and then pursued n MSc in Statistics at Imperial College London which was possible thanks to a [Bona Fide scholarship](https://www.orlen.pl/en/sustainability/sustainable-development-and-ESG-strategy/esg/esg-projects/scholarship-programme-of-the-orlen-foundation#:~:text=Bona%20Fide%20programme&text=Its%20purpose%20is%20to%20provide,the%20economic%20power%20of%20Poland.).
+Before starting my PhD, completed a BSc in Mathematics at the University of Warwick and then pursued an MSc in Statistics at Imperial College London which was possible thanks to a [Bona Fide scholarship](https://www.orlen.pl/en/sustainability/sustainable-development-and-ESG-strategy/esg/esg-projects/scholarship-programme-of-the-orlen-foundation#:~:text=Bona%20Fide%20programme&text=Its%20purpose%20is%20to%20provide,the%20economic%20power%20of%20Poland.).
 
 **Research interests**. 
 My research focuses on problems at the intersection of generative modelling, particle methods, stochastic differential equations (SDEs), optimal transport and Schrodinger bridges. Recently I've been working on a project related to Gromov-Wasserstein distance computation. Always happy to chat!
