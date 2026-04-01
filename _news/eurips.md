@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2025-12-02
+date_format: month_year
 inline: true
 related_posts: false
 ---
