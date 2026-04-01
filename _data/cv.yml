@@ -84,9 +84,9 @@
         - Developed a mid-season table for the Polish volleyball league, accounting for the strength of each opponent played.
         - Worked under the supervision of Dr. Nick Tawn and Professor David Firth.
 
-  -title: Teaching Experience
-   type: time_table
-   contents:
+- title: Teaching Experience
+  type: time_table
+  contents:
      - title: Teaching Assistant
        institution: Imperial College London, Department of Mathematics, UK
        year: 2025-now
