@@ -16,7 +16,7 @@
       year: 2024-now
       description:
         - Under the supervision of <a href="https://akyildiz.me/">Deniz Akyildiz</a> and <a href="https://sites.google.com/site/riccardopasseggeri">Riccardo Passeggeri</a>
-        -Investigating the interplay between Optimal Transport (OT) and enerative Modeling, with a focus on latent variable models. Currently working with  href="https://gabrielrioux.github.io">Gabriel Rioux</a> on developing a novel, scalable algorithm for Gromov-Wasserstein distance computation to align complex probability spaces.
+        - Investigating the interplay between Optimal Transport (OT) and generative modeling, with a focus on latent variable models. Currently working with <a href="https://gabrielrioux.github.io">Gabriel Rioux</a> on developing a novel, scalable algorithm for Gromov-Wasserstein distance computation to align complex probability spaces.
         - Fully funded within the EPSRC Center for Doctoral Training in Statistics and Machine Learning (<a href="https://statml.io/">StatML CDT</a>).
         - Completed doctoral-level modules in Deep Learning, Advanced Bayesian Methods, Statistical Inference, and Causal Inference.
         # - title: Papers
