@@ -78,19 +78,19 @@
 
 html[data-theme="dark"] {
   color-scheme: dark;
-  --global-bg-color: #0f2740;
+  --global-bg-color: #221734;
   --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #edf3fb;
-  --global-text-color-light: #b8c7d9;
-  --global-theme-color: #8db8e8;
-  --global-hover-color: #8db8e8;
+  --global-text-color: #f3ecfb;
+  --global-text-color-light: #c9bddb;
+  --global-theme-color: #c7a6ff;
+  --global-hover-color: #c7a6ff;
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #193754;
-  --global-footer-text-color: #edf3fb;
-  --global-footer-link-color: #edf3fb;
-  --global-distill-app-color: #b8c7d9;
-  --global-divider-color: rgba(237, 243, 251, 0.14);
-  --global-card-bg-color: #17324d;
+  --global-footer-bg-color: #312047;
+  --global-footer-text-color: #f3ecfb;
+  --global-footer-link-color: #f3ecfb;
+  --global-distill-app-color: #c9bddb;
+  --global-divider-color: rgba(243, 236, 251, 0.14);
+  --global-card-bg-color: #2c1d42;
   --global-back-to-top-bg-color: rgba(
     #{color.channel($white-color, "red", $space: rgb)},
     #{color.channel($white-color, "green", $space: rgb)},
@@ -98,8 +98,8 @@ html[data-theme="dark"] {
     0.5
   );
   --global-back-to-top-text-color: #{$black-color};
-  --global-newsletter-bg-color: #17324d;
-  --global-newsletter-text-color: #edf3fb;
+  --global-newsletter-bg-color: #2c1d42;
+  --global-newsletter-text-color: #f3ecfb;
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
