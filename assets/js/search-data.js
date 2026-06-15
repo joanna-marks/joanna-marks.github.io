@@ -29,6 +29,9 @@ ninja.data = [{
           section: "News",},{id: "news-gabriel-rioux-will-present-our-joint-work-on-gromov-wasserstein-distances-between-finite-spaces-duality-computation-and-entropic-approximation-with-riccardo-passeggeri-at-cdm-seminars-series-at-epfl-come-chat-to-him-if-interested-pre-print-coming-soon",
           title: 'Gabriel Rioux will present our joint work on “Gromov-Wasserstein distances between finite spaces:...',
           description: "",
+          section: "News",},{id: "news-i-am-excited-to-share-that-our-joint-work-with-tim-y-j-wang-and-deniz-akyildiz-has-been-selected-for-an-oral-presentation-at-uai-26-see-you-in-amsterdam",
+          title: 'I am excited to share that our joint work with Tim Y.J Wang...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
