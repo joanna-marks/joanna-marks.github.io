@@ -35,8 +35,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-coming-to-ml-in-pl-to-present-our-work-on-convergent-algorithms-for-entripc-gromov-wasserstein-problems-excited-to-meet-the-polish-ml-community",
           title: 'I am coming to ML in PL to present our work on convergent...',
           description: "",
-          section: "News",},{id: "news-i-will-be-coming-to-the-opt2026-neurips-workshop-this-year-excited-to-share-our-work-on-entropic-gromov-wasserstin-problems-in-sydney",
-          title: 'I will be coming to the OPT2026 Neurips Workshop this year. Excited to...',
+          section: "News",},{id: "news-i-will-be-coming-to-give-an-oral-presentation-at-opt2026-neurips-workshop-this-year-excited-to-share-our-work-on-entropic-gromov-wasserstin-problems-in-sydney",
+          title: 'I will be coming to give an oral presentation at OPT2026 Neurips Workshop...',
           description: "",
           section: "News",},{
       id: 'light-theme',
