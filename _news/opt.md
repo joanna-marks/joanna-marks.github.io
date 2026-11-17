@@ -6,4 +6,4 @@ related_posts: false
 homepage: false
 ---
 
-I will be coming to the [OPT2026](https://opt-ml.org) Neurips Workshop this year. Excited to share our work on entropic Gromov--Wasserstin problems in Sydney!
+I will be coming to give an oral presentation at [OPT2026](https://opt-ml.org) Neurips Workshop this year. Excited to share our work on entropic Gromov--Wasserstin problems in Sydney!
